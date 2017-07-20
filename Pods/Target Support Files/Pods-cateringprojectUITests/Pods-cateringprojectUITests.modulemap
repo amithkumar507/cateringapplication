@@ -1,0 +1,6 @@
+framework module Pods_cateringprojectUITests {
+  umbrella header "Pods-cateringprojectUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

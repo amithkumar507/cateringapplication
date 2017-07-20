@@ -1,0 +1,6 @@
+framework module Pods_cateringproject {
+  umbrella header "Pods-cateringproject-umbrella.h"
+
+  export *
+  module * { export * }
+}
